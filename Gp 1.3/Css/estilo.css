@@ -1,8 +1,23 @@
 .logo{
-float: left;
-width: 30%;
-height: 30%;
-
+	float: left;
+	width: 25%;
+	height: 30%;
+	margin-right: 1%; 
 }
 
-h1 { font-size: 420%; color: #203982;	}
+.gif{
+	float: right;
+	width: 15%;
+	margin-top: -24%;
+}
+
+.logo2{
+	float: center;
+	width: 100%;
+}
+
+
+
+h1 { font-size: 420%; color: #203982; 	}
+ul{float: left; margin-right: 10%; font-size: 150%; color:#DABF00; margin-bottom: 15%}
+article{float: center; margin-right: 20%; text-align: justify;}
